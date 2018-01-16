@@ -1,0 +1,41 @@
+commit 575ecc4f03f0157c5092eb45997e10d0c311d372
+Author: Christopher ROY <christopher.roy@mail.mcgill.ca>
+Date:   Sat Nov 25 18:05:15 2017 -0500
+
+    Added comments, cleaned up code
+
+commit 8c0c59c9d2f0c83bb64608c7aed3395997317c5a
+Author: Christopher ROY <christopher.roy@mail.mcgill.ca>
+Date:   Sat Nov 25 17:41:40 2017 -0500
+
+    Fixed segmentation error in list.c
+
+commit ce2968678786ce5d80cbfea35f68afb7bd255a1a
+Author: Christopher ROY <christopher.roy@mail.mcgill.ca>
+Date:   Sat Nov 25 15:11:47 2017 -0500
+
+    Fleshed out list.h and list.c files
+
+commit 980da41ac1a493847759849d9972ee7e69d3c5a1
+Author: Christopher ROY <christopher.roy@mail.mcgill.ca>
+Date:   Fri Nov 24 13:41:01 2017 -0500
+
+    Created basic node struct
+
+commit f6ab5bdb0811960a12dbc23a6144cf825a83b58f
+Author: Christopher ROY <christopher.roy@mail.mcgill.ca>
+Date:   Fri Nov 24 13:34:27 2017 -0500
+
+    Added loop that takes user input
+
+commit fa23192a4a97fc546a70839f03cd280778264cc4
+Author: Christopher ROY <christopher.roy@mail.mcgill.ca>
+Date:   Thu Nov 16 16:39:52 2017 -0500
+
+    Created list.c, added functions
+
+commit 71565b6c37cfb9cf9fdcf5daf4745f2f3ad2afcb
+Author: Christopher ROY <christopher.roy@mail.mcgill.ca>
+Date:   Thu Nov 16 14:16:50 2017 -0500
+
+    Included stdio.h
